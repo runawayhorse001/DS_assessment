@@ -1,3 +1,7 @@
+# exclue the data and saved model
+data/
+model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
